@@ -3,7 +3,7 @@
 It simple game  and easy to paly with some interesting twist, Player's have only 3 (O) or (X) to win the game.
 
 ## Live Demo
-[Click Here](https://tic-tac-toe-aryan-561s-projects.vercel.app/)
+[Click Here](https://tic-tac-toe-eight-lake-57.vercel.app/)
 
 ## Technology Used
 - React
